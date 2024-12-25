@@ -7,7 +7,7 @@ Exemplo de backend spring boot de um projeto restfull de gerenciamento de carros
 
 Arquivo docker-compose para usar no comando abaixo:
 
-[https://github.com/bruno130187/minhasfinancas-backend/blob/master/src/docker-compose.yaml]
+[https://github.com/bruno130187/carro-backend/blob/main/docker-compose.yaml]
 
 ### `docker-compose -f c:\pasta-do-arquivo\docker-compose.yaml up`
 
